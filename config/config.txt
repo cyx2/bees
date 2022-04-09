@@ -1,0 +1,2 @@
+delay_sec = 0
+tare = 5032
